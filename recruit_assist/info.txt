@@ -1,0 +1,31 @@
+## Data Cleaning, Feature Engineering, Imputation, and Classification.##
+
+## Install requirements.txt (conda env or pip env) or environement.yml + Packages Update
+    - conda env create -f environment.yml
+    - conda install --file requirements.txt
+    
+## Import Standard Python Libraries
+## Import all needed pachages / Libraries
+## Data Download and Loading
+## split data on train and test set (stratifid, shuffle, ect)
+## Data Exploration - Univariate
+    - Explore each feature independently
+    - Explore combinations of characteristics and find relationships 
+    - Search for correlation with target variable
+## Prepare the Data for Machine Learning Algorithms
+    - Feature Engineering
+    - Feature Encoding
+    - Data Cleaning
+    - Feature Reduction / Selection
+    - Feature Correlation
+    - Feature Importance
+    - Recursive Feature Elimination
+    - Make full pipline with sklearn
+
+## Machine Learning Algorithms
+    - Data Review
+    - Algorithms
+
+
+
+### Refaire la foction 'Download data'

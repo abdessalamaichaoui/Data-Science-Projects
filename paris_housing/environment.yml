@@ -1,0 +1,10 @@
+# conda env create -f environment.yml
+name: paris_housing
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python==3.8
+  - pip
+  - pip:
+    - -r file:requirements.txt

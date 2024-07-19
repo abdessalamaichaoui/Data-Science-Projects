@@ -1,0 +1,20 @@
+# conda env create -f environment.yml
+# name: recruit_assist
+# channels:
+#   - conda-forge
+#   - anaconda
+# dependencies:
+#   - python==3.8
+#   - pip
+#   - pip:
+#     - -r file:requirements.txt
+
+name: recruit_assist
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python==3.8
+  - pip
+  - pip:
+    - -r requirements.txt

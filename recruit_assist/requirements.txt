@@ -1,0 +1,11 @@
+# conda install --file requirements.txt
+pandas
+numpy
+seaborn
+matplotlib
+urllib3
+requests
+scikit-learn
+missingno
+joblib
+tqdm
